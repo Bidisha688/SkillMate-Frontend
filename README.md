@@ -165,7 +165,7 @@ Project is live at:
 
 ## 👨‍💻 Author
 
-Developed by **Arpon Roy**.  
+Developed by **Bidisha Saha**.  
 For inquiries, reach out via email or GitHub.
 
 ---
